@@ -1,0 +1,11 @@
+gstin,legal_name,state,filing_frequency,filing_status,registration_type
+29ABCDE1234F1Z5,Shree Traders Pvt Ltd,Karnataka,Monthly,Filed,Regular
+27PQRSX5678L1Z2,Mumbai Industrial Supply,Maharashtra,Monthly,Not Filed,Regular
+33LMNOP4321K1Z3,Chennai Hardware Hub,Tamil Nadu,Monthly,Filed,Regular
+07QRSTU8765H1Z4,Delhi Electricals,Delhi,Quarterly,Filed,Regular
+24WXYZR2345G1Z6,Gujarat Steel Works,Gujarat,Monthly,Not Filed,Regular
+36ABCDE9999F1Z7,Hyderabad Tech Components,Telangana,Monthly,Filed,Regular
+19ZXCVB6789N1Z8,Kolkata Trade Links,West Bengal,Quarterly,Filed,Regular
+32POIUY1234T1Z9,Kerala Distributors,Kerala,Monthly,Filed,Regular
+29FAKE0000X1Z5,Fake Shell Entity,Karnataka,Monthly,Not Filed,Regular
+27COMP5678C1Z2,Composition Dealer,Maharashtra,Quarterly,Filed,Composition
